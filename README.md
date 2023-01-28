@@ -8,7 +8,7 @@ Quick action for markdown.
 
 How to use a snippet :
     1. write the prefix
-    2. use [[ctrl]] + [[space]] to show the snippets linked to the prefix
+    2. use `ctrl + space` to show the snippets linked to the prefix
     3. Select the snippet you want to use
 
 Added snippets' list
@@ -23,11 +23,11 @@ Added snippets' list
 ### Commands
 
 How to use a command:
-    1. use [[ctrl]] + [[maj]] + [[p]] to access the command runner
+    1. use `ctrl + maj + p` to access the command runner
     2. type the command's name
-    3. press [[enter]]
+    3. press `enter`
 
 Added commands' list
 
 - speedy-markdown.table
-    Create a $n \times m$ table based on user inputs.
+    Create a n ✖ m table based on user inputs.
