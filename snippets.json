@@ -1,6 +1,21 @@
 {
   "Omit in Table of Content": {
     "prefix": "omit",
-    "body": ["<!-- omit ${1|from,in|} -->"]
+    "body": ["<!-- omit ${1|from,in|} toc -->"]
+  },
+  "Code block": {
+    "prefix": "codeb",
+    "body": ["```${1:txt}", "${2}", "```"]
+  },
+  "Page Break": {
+    "prefix": "break",
+    "body": [
+      "${1|<div class='page'/>, <div style='page-break-before: always;' />|}"
+    ]
+  },
+
+  "Resize img": {
+    "prefix": "rim",
+    "body": ["![${1:alt}](${2}){style=\"width:${3:75}%\"}"]
   }
 }
