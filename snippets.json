@@ -1,0 +1,6 @@
+{
+  "Omit in Table of Content": {
+    "prefix": "omit",
+    "body": ["<!-- omit ${1|from,in|} -->"]
+  }
+}
