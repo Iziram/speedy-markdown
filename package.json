@@ -1,6 +1,10 @@
 {
   "name": "speedy-markdown",
   "displayName": "Speedy Markdown",
+  "publisher": "iziram",
+  "author": {
+    "name": "iziram"
+  },
   "description": "collection of snippets and commands to speed up markdown writing",
   "version": "0.0.1",
   "engines": {
